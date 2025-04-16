@@ -1,0 +1,42 @@
+[
+  {
+    "Raza": "Mastín Inglés",
+    "Peso": 88,
+    "Comparado": "2,51"
+  },
+  {
+    "Raza": "Gran Danés",
+    "Peso": 80,
+    "Comparado": "2,29"
+  },
+  {
+    "Raza": "Rottweiler",
+    "Peso": 60,
+    "Comparado": "1,71"
+  },
+  {
+    "Raza": "Pastór Alemán",
+    "Peso": 35,
+    "Comparado": 1
+  },
+  {
+    "Raza": "Labrador",
+    "Peso": 30,
+    "Comparado": "0,86"
+  },
+  {
+    "Raza": "Cocker Spaniel",
+    "Peso": 14,
+    "Comparado": "0,46"
+  },
+  {
+    "Raza": "Pug",
+    "Peso": 7,
+    "Comparado": "0,5"
+  },
+  {
+    "Raza": "Chihuahua",
+    "Peso": "2,5",
+    "Comparado": "0,36"
+  }
+]
